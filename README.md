@@ -12,11 +12,13 @@ Send personalized bulk emails using Gmail and an Excel sheet (Google Sheets). Au
 My employer asked me to send an email to over 800 recipients listed in an Excel sheet. 📊 Each email needed to include a personalized name and employee ID, but the rest of the content was exactly the same.
 
 Manually sending all those emails? 🧑‍💻
-No way. 🙅‍♂️🙅‍♀️ That would’ve taken forever. ⏳
 
-**Luckily, Google came to the rescue! 🎉**
+No way. 🙅‍♂️🙅‍♀️ 
 
-With the right tools, what seemed like a huge task turned into a smooth and simple process. To send personalized emails from Gmail using data in an Excel sheet, you’ve got two main options:
+That would’ve taken forever. ⏳
+
+
+**With the right tools, what seemed like a huge task turned into a smooth and simple process. To send personalized emails from Gmail using data in an Excel sheet, you’ve got two main options:**
 
 Gmail’s built-in Mail Merge with Google Sheets: Super handy and totally free.
 Third-party tools like Yet Another Mail merge YAMSS or Mergo Mail Merge: Great if you want extra features like tracking or scheduling.
