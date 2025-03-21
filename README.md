@@ -20,8 +20,9 @@ That would’ve taken forever. ⏳
 
 **With the right tools, what seemed like a huge task turned into a smooth and simple process. To send personalized emails from Gmail using data in an Excel sheet, you’ve got two main options:**
 
-Gmail’s built-in Mail Merge with Google Sheets: Super handy and totally free.
-Third-party tools like Yet Another Mail merge YAMSS or Mergo Mail Merge: Great if you want extra features like tracking or scheduling.
+* Gmail’s built-in Mail Merge with Google Sheets: Super handy and totally free.
+
+* Third-party tools like Yet Another Mail merge YAMSS or Mergo Mail Merge: Great if you want extra features like tracking or scheduling.
 
 ## Gmail’s Mail Merge with Google Sheets:
 
